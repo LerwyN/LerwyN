@@ -55,9 +55,9 @@ I enjoy building projects, learning new technologies and creating things from sc
 
 ## 🎯 Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,typescript,react,unreal,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev)
 
-**C++ • Python • Java • TypeScript • React • Unreal Engine • Azure**
+**C++ • Unreal Engine**
 
 ---
 
