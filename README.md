@@ -1,42 +1,18 @@
-# Abdullah | LerwyN
-
-### Aspiring Software Developer | Building, Learning & Creating 🚀
-
----
-
 ## 👋 About Me
 
-💻 Software Development  
-🎮 Game Development  
-🎵 Music & Metal  
-📸 Instagram  
-🪟 Windows  
-💬 Discord  
-🔧 Git & GitHub  
-🎮 Learning Unity
+💻 Software Development • 🎮 Game Development • 🎵 Rock & Metal
 
-I'm currently improving my programming skills and learning Unity
-with the goal of developing my own games in the future.
+[![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 
----
+Currently learning **C# & .NET** and exploring **Unity** for game development.
 
-## 🛠️ Technologies & Tools
+### 🚀 Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,sql,sqlite,git,github,docker,vscode,visualstudio,windows,discord,unity)](https://skillicons.dev)
-
----
-
-## 🎯 Goals
-
-Become a professional software developer and create my own games
-and projects under **GonciGames**. 🚀
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LerwyN&show_icons=true&theme=dark)
-
----
-
-[![Instagram](https://img.shields.io/badge/Instagram-itquinz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itquinz)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,react,typescript,unreal,azure)](https://skillicons.dev)
