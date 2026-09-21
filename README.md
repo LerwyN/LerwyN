@@ -1,26 +1,23 @@
 # 👋 Merhaba, ben Abdullah!
 
-18 yaşında bir geliştiriciyim.  
-Kod yazmayı, yeni teknolojiler öğrenmeyi ve kendi projelerimi geliştirmeyi seviyorum.
+18 yaşında bir geliştiriciyim. Yazılım geliştirmeyi, yeni teknolojiler öğrenmeyi ve öğrendiklerimi kendi projelerimde uygulamayı seviyorum.
+Şu anda özellikle **C#, .NET, SQL ve Web geliştirme** üzerine kendimi geliştiriyorum.
 
-### 🛠️ Kullandığım Teknolojiler
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,sql,sqlite,git,github,vscode,visualstudio" />
-</p>
-
-### 💻 Kullandığım Sistemler
+### 🛠️ Teknolojiler & Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,sql,sqlite,docker,dotnet,git,github,vscode,visualstudio,windows,linux" />
 </p>
 
-### 🎮 & 🎵
+### 💻 Çalışma Alanlarım
 
-  <img src="https://cdn.simpleicons.org/spotify/1DB954" height="48" />
-</p>
+* **C# & .NET** — Uygulama ve backend geliştirme
+* **SQL & SQLite** — Veritabanı işlemleri
+* **HTML, CSS & JavaScript** — Web geliştirme
+* **Git & GitHub** — Proje ve sürüm yönetimi
+* **Docker** — Container ve geliştirme ortamları
 
----
+Her gün yeni bir şey öğrenmeye ve daha iyi projeler geliştirmeye çalışıyorum.
 
 <p align="center">
   🚀 Öğreniyorum • Üretiyorum • Geliştiriyorum
