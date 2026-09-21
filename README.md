@@ -17,8 +17,6 @@ Kod yazmayı, yeni teknolojiler öğrenmeyi ve kendi projelerimi geliştirmeyi s
 
 ### 🎮 & 🎵
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,robloxstudio" />
   <img src="https://cdn.simpleicons.org/spotify/1DB954" height="48" />
 </p>
 
