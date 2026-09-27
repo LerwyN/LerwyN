@@ -6,7 +6,7 @@
 ###  Teknolojiler & Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,js,sql,sqlite,docker,dotnet,git,github,vscode,visualstudio,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,sqlite,docker,dotnet,git,github,vscode,visualstudio,windows,linux,sql" />
 </p>
 
 ###  Çalışma Alanlarım
