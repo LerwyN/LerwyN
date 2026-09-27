@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Abdullah!
+# Merhaba, ben Abdullah!
 
 18 yaşında bir geliştiriciyim. Yazılım geliştirmeyi, yeni teknolojiler öğrenmeyi ve öğrendiklerimi kendi projelerimde uygulamayı seviyorum.
 Şu anda özellikle **C#, .NET, SQL ve Web geliştirme** üzerine kendimi geliştiriyorum.
