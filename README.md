@@ -1,24 +1,30 @@
+
 # Merhaba, ben Abdullah!
 
-18 yaşında bir geliştiriciyim. Yazılım geliştirmeyi, yeni teknolojiler öğrenmeyi ve öğrendiklerimi kendi projelerimde uygulamayı seviyorum.
-Şu anda özellikle **C#, .NET, SQL ve Web geliştirme** üzerine kendimi geliştiriyorum.
+18 yaşında bir yazılım geliştiricisiyim. Yeni teknolojiler keşfetmeyi, yazılım geliştirmeyi ve fikirlerimi gerçek projelere dönüştürmeyi seviyorum. Şu anda özellikle **C#, .NET, C++, SQL ve Web geliştirme** alanlarında kendimi geliştiriyorum.
 
-###  Teknolojiler & Araçlar
+### Teknolojiler & Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,js,sqlite,docker,dotnet,git,github,vscode,visualstudio,windows,linux,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js,sqlite,git,github,docker,vscode,visualstudio,windows,linux" />
 </p>
 
-###  Çalışma Alanlarım
+### İlgi Alanlarım
 
-* **C# & .NET** — Uygulama ve backend geliştirme
-* **SQL & SQLite** — Veritabanı işlemleri
-* **HTML, CSS & JavaScript** — Web geliştirme
-* **Git & GitHub** — Proje ve sürüm yönetimi
-* **Docker** — Container ve geliştirme ortamları
+- **Backend Development:** C#, .NET ve ASP.NET Core
+- **Database:** SQL, SQLite ve veritabanı yönetimi
+- **Web Development:** HTML, CSS ve JavaScript
+- **Software Engineering:** Nesne yönelimli programlama ve yazılım mimarisi
+- **Version Control:** Git ve GitHub
 
-Her gün yeni bir şey öğrenmeye ve daha iyi projeler geliştirmeye çalışıyorum.
+### Şu Anda Neler Yapıyorum?
+
+- Kendi yazılım projelerimi geliştiriyorum.
+- Yeni teknolojiler öğrenerek teknik yetkinliklerimi artırıyorum.
+- Özellikle **Rune** projem üzerinde çalışıyorum.
+
+---
 
 <p align="center">
-   Öğreniyorum • Üretiyorum • Geliştiriyorum
+  <b>Öğrenmeye devam et. Üretmeye devam et.</b>
 </p>
