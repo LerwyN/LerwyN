@@ -1,59 +1,65 @@
-
-<h1 align="center">Hey, I'm Abdullah! 👋</h1>
+<h1 align="center">Merhaba, ben Abdullah! 👋</h1>
 
 <p align="center">
-  <b>Software Developer | Learner | Builder</b>
+  <strong>Yazılım Geliştirici | Üreten, Öğrenen, Geliştiren</strong>
 </p>
 
 <p align="center">
-  Yazılım geliştirmeye tutkuyla bağlı, sürekli öğrenen ve fikirlerini projelere dönüştürmeyi seven bir geliştiriciyim.
+  Fikirleri çalışan projelere dönüştürmeyi seven bir yazılım geliştiriciyim.
   <br>
-  C, C++, C# ve .NET başta olmak üzere farklı teknolojilerle ilgileniyor, kendimi yazılım mühendisliği alanında geliştiriyorum.
+  Yazılımın farklı alanlarını keşfediyor, öğrendiklerimi gerçek projeler üzerinde uygulayarak kendimi geliştiriyorum.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Hakkımda
 
-- 💻 Yazılım geliştirme ve problem çözme üzerine çalışıyorum.
-- 🚀 Kendi projem olan **Rune** üzerinde geliştirmeler yapıyorum.
-- 🧠 C ve C++ öğrenerek programlamanın temellerini daha derinlemesine keşfediyorum.
+- 🚀 Kendi oyun platformum **Rune** üzerinde çalışıyorum.
 - ⚙️ C#, .NET ve ASP.NET Core ile uygulama ve backend geliştiriyorum.
-- 🎮 Unreal Engine ve oyun geliştirme teknolojileriyle ilgileniyorum.
-- 📚 OOP, veri yapıları, algoritmalar ve yazılım mimarisi üzerine kendimi geliştiriyorum.
+- 🧠 C ve C++ ile programlamanın temellerini derinleştiriyorum.
+- 🧩 Nesne yönelimli programlama, veri yapıları ve algoritmalarla ilgileniyorum.
+- 🎮 Unreal Engine ve oyun geliştirme teknolojilerini keşfediyorum.
+- 📚 Yazılım mimarisi, temiz kod ve problem çözme becerilerimi geliştiriyorum.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,sqlite,git,github,docker,unreal,vscode,visualstudio,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,sqlite,git,github,docker,unreal,vscode,visualstudio,windows,linux" alt="Teknolojiler ve araçlar" />
 </p>
 
-### 🎯 Areas of Interest
+### 🎯 İlgi Alanlarım
 
-| Area | Technologies |
+| Alan | Teknolojiler / Konular |
 |---|---|
-| Programming | C, C++, C# |
-| Backend Development | .NET, ASP.NET Core |
-| Web Development | HTML, CSS, JavaScript |
-| Database | SQL, SQLite |
-| Game Development | Unreal Engine |
-| Concepts | OOP, Algorithms, Data Structures |
-| Tools | Git, GitHub, Visual Studio, VS Code |
+| Programlama | C, C++, C# |
+| Backend Geliştirme | .NET, ASP.NET Core |
+| Web Geliştirme | HTML, CSS, JavaScript |
+| Veritabanı | SQL, SQLite |
+| Oyun Geliştirme | Unreal Engine |
+| Yazılım Temelleri | OOP, Veri Yapıları, Algoritmalar |
+| Geliştirme Araçları | Git, GitHub, Visual Studio, VS Code |
 
-### 🚀 Featured Project
+### 🚀 Öne Çıkan Projem
 
-**Rune — Game Platform**
+#### Rune — Oyun Platformu
 
-Kendi oyun platformumu geliştirmek için çalışıyorum. Mağaza, kullanıcı sistemi, oyun kütüphanesi ve masaüstü launcher gibi özellikleriyle büyütmeyi hedeflediğim uzun soluklu bir proje.
+Rune, kendi oyun platformumu oluşturma hedefiyle geliştirdiğim uzun soluklu bir proje.
 
-### 📊 GitHub
+Mağaza, kullanıcı sistemi, oyun kütüphanesi ve masaüstü launcher gibi bileşenleri tek bir platformda bir araya getirmeyi amaçlıyorum.
+
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abcodee&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LerwyN&show_icons=true&theme=github_dark&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LerwyN&layout=compact&theme=github_dark&hide_border=true&locale=tr" alt="En çok kullanılan diller" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LerwyN&theme=github-dark-blue&hide_border=true&locale=tr" alt="GitHub katkı serisi" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Learn. Build. Improve. Repeat.</b>
+  <strong>Öğren. Üret. Geliştir. Tekrar et.</strong>
 </p>
