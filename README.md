@@ -1,13 +1,11 @@
 <h1 align="center">Merhaba, ben Abdullah! 👋</h1>
 
 <p align="center">
-  <strong>Yazılım Geliştirici | Üreten, Öğrenen, Geliştiren</strong>
-</p>
-
-<p align="center">
-  Fikirleri çalışan projelere dönüştürmeyi seven bir yazılım geliştiriciyim.
+  <strong>Yazılım Geliştirici</strong>
   <br>
-  Yazılımın farklı alanlarını keşfediyor, öğrendiklerimi gerçek projeler üzerinde uygulayarak kendimi geliştiriyorum.
+  Fikirleri projelere, projeleri gerçeğe dönüştürüyorum.
+  <br>
+  C • C++ • C# • .NET
 </p>
 
 ---
