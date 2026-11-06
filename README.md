@@ -22,8 +22,10 @@ I am a software developer focused on building scalable, reliable and maintainabl
 
 ### Technologies & Tools
 
+### Technologies & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,ts,bootstrap,postgres,sqlite,mysql,git,github,docker,linux,windows,visualstudio,vscode,unreal,unity,lua,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,lua,bootstrap,postgres,sqlite,mysql,git,github,docker,linux,windows,visualstudio,vscode,robloxstudio" />
 </p>
 
 ### Core Competencies
